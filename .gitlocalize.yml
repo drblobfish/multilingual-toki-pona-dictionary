@@ -1,8 +1,0 @@
-synchronize:
-  paths:
-  - source: .
-    exclude:
-    - "404.html"
-    - "lipu-ante.html"
-    - "README.md"
-    

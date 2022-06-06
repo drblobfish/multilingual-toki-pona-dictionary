@@ -1,12 +1,12 @@
 # multilingual-toki-pona-dictionary
 
-This repo contains a machine-readable toki pona dictionary.
+This repo contains a machine-readable toki pona dictionary. It only contains the 120 pu words for now.
 
 The data comes from the website [lipu lili pona](https://jan-ne.github.io/lipu-lili-pona)
 
 You can contribute to the translation there : https://github.com/jan-Ne/lipu-lili-pona
 
-Huge thank you to all the contributors of lipu lili pona, especially [jan Ne](https://github.com/jan-Ne). They did all the hard work ; here I just put together some python scripts to parse their work and tidy it into neater files for programmers.
+Huge thank you to all the contributors of lipu lili pona, especially [jan Ne](https://github.com/jan-Ne). They did all the hard work : here I just put together some python scripts to parse their work and tidy it into neater files for programmers.
 
 ## toki pona
 
